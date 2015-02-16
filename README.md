@@ -1,5 +1,6 @@
-# duplicate-selection package
+# Duplicate-Selection package
 
-A short description of your package.
+This package duplicates selected text when it is, and lines when it is not.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+### License
+Le Mit Yo!
