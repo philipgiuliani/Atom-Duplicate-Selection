@@ -1,13 +1,12 @@
 {
   "name": "duplicate-selection",
   "main": "./lib/duplicate-selection",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "'Cause we not always want to duplicate lines :D",
   "repository": "https://github.com/steelbrain/Atom-Duplicate-Selection",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
